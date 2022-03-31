@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2012\Projects\dızıdeyiskenelr_en buyuk_enkucuk\dızıdeyiskenelr_en buyuk_enkucuk\bin\Debug\dızıdeyiskenelr_en buyuk_enkucuk.exe.config
+c:\users\user\documents\visual studio 2012\Projects\dızıdeyiskenelr_en buyuk_enkucuk\dızıdeyiskenelr_en buyuk_enkucuk\obj\Debug\dızıdeyiskenelr_en buyuk_enkucuk.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\dızıdeyiskenelr_en buyuk_enkucuk\dızıdeyiskenelr_en buyuk_enkucuk\obj\Debug\dızıdeyiskenelr_en_buyuk_enkucuk.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\dızıdeyiskenelr_en buyuk_enkucuk\dızıdeyiskenelr_en buyuk_enkucuk\obj\Debug\dızıdeyiskenelr_en_buyuk_enkucuk.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\dızıdeyiskenelr_en buyuk_enkucuk\dızıdeyiskenelr_en buyuk_enkucuk\obj\Debug\dızıdeyiskenelr_en buyuk_enkucuk.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\dızıdeyiskenelr_en buyuk_enkucuk\dızıdeyiskenelr_en buyuk_enkucuk\bin\Debug\dızıdeyiskenelr_en buyuk_enkucuk.exe
+c:\users\user\documents\visual studio 2012\Projects\dızıdeyiskenelr_en buyuk_enkucuk\dızıdeyiskenelr_en buyuk_enkucuk\bin\Debug\dızıdeyiskenelr_en buyuk_enkucuk.pdb
+c:\users\user\documents\visual studio 2012\Projects\dızıdeyiskenelr_en buyuk_enkucuk\dızıdeyiskenelr_en buyuk_enkucuk\obj\Debug\dızıdeyiskenelr_en buyuk_enkucuk.exe
+c:\users\user\documents\visual studio 2012\Projects\dızıdeyiskenelr_en buyuk_enkucuk\dızıdeyiskenelr_en buyuk_enkucuk\obj\Debug\dızıdeyiskenelr_en buyuk_enkucuk.pdb
